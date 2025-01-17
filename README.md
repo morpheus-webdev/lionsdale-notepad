@@ -48,3 +48,21 @@ export default tseslint.config({
   },
 })
 ```
+
+
+
+# Feladat
+
+1. Készíts user interface-t
+
+|name|string|
+|---|---|
+|age|number|
+|isAdmin|boolean|
+|email|string|
+
+OPCIONÁLIS: email validálás (regex-el vagy modullal)
+
+2. Regisztrációs ablak
+
+3. Userek megjelenítése 
